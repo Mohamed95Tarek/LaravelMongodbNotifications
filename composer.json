@@ -1,0 +1,17 @@
+{
+    "name": "mohamedtarek20/laravel-mongodb-notifications",
+    "description": "A package for mongodb notifications",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mohamedtarek20\\LaravelMongodbNotifications\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamedtarekismail95",
+            "email": "mohamedtarekismail95@gmail.com"
+        }
+    ],
+    "require": {}
+}
