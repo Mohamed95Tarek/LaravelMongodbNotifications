@@ -13,5 +13,7 @@
             "email": "mohamedtarekismail95@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "jenssegers/mongodb": "^3.9"
+    }
 }
