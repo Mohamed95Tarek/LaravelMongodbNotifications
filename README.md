@@ -11,7 +11,7 @@ A package for mongodb notifications
 Via Composer
 
 ``` bash
-$ composer require mohamedtarek20/laravel-mongodb-notifications
+$ composer require Mohamed95Tarek/laravel-mongodb-notifications
 ```
 
 ## Usage
